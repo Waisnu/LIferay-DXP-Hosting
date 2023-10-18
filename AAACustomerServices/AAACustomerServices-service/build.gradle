@@ -1,0 +1,11 @@
+dependencies {
+	compile project(":modules:AAACustomerServices:AAACustomerServices-api")
+
+	compileOnly group: "com.liferay.portal", name: "release.portal.api"
+}
+
+buildService {
+	apiDir = "../AAACustomerServices-api/src/main/java"
+}
+
+group = "AAACustomerServices"

@@ -1,0 +1,10 @@
+Bundle-Name: AAACustomerServices-api
+Bundle-SymbolicName: AAACustomerServices.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	AAACustomerServices.exception,\
+	AAACustomerServices.model,\
+	AAACustomerServices.service,\
+	AAACustomerServices.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../AAACustomerServices-service/service.xml

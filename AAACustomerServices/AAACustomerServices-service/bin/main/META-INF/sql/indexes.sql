@@ -1,0 +1,1 @@
+create index IX_37A09197 on FOO_Customer (uuid_[$COLUMN_LENGTH:75$]);

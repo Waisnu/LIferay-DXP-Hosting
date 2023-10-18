@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="AAACustomerServices.model.Customer">
+		<field name="uuid" type="String" />
+		<field name="customerId" type="long" />
+		<field name="customerName" type="String" />
+		<field name="customerEmail" type="String" />
+		<field name="customerAddress" type="String" />
+		<field name="customerContact" type="String" />
+		<field name="customerNRIC" type="String" />
+		<field name="service" type="String" />
+	</model>
+</model-hints>
