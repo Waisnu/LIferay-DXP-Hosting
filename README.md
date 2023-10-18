@@ -4,7 +4,7 @@ Welcome to the AAA Hosting Services project!
 
 ## Project Description
 
-This project is built using Liferay DXP (Digital Experience Platform). We've developed a rich and user-centric design for our website, allowing users to subscribe to various hosting services.
+This project is built using Liferay DXP (Digital Experience Platform). I've developed a rich and user-centric design for our website, allowing users to subscribe to various hosting services.
 
 ## Project Links
 
